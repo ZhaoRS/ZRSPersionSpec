@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocationLib_Example' do
+  pod 'LocationLib', :path => '../'
+
+  target 'LocationLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
