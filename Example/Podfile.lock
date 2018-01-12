@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LocationLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LocationLib (from `../`)
+
+EXTERNAL SOURCES:
+  LocationLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LocationLib: 673b9dc05d57e7767f7b934635fcd5cfb54d2f74
+
+PODFILE CHECKSUM: 28112ac1788ce95093cd0c5b1feabcceeae7e923
+
+COCOAPODS: 1.2.1

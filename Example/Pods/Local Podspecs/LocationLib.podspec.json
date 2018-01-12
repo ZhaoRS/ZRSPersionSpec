@@ -1,0 +1,22 @@
+{
+  "name": "LocationLib",
+  "version": "0.1.0",
+  "summary": "A short description of LocationLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZhaoRS/LocationLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZhaoRS": "zhao_ruisheng@126.com"
+  },
+  "source": {
+    "git": "https://github.com/ZhaoRS/LocationLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LocationLib/Classes/**/*"
+}
